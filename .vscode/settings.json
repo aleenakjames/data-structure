@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "STACK.C": "cpp",
+        "QUEUE.C": "cpp",
+        "CQUEUE.C": "cpp"
+    },
+    "C_Cpp.errorSquiggles": "Disabled"
+}
